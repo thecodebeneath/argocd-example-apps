@@ -1,0 +1,7 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: "guestbook-cli"
+  labels:
+    name: "guestbook-cli"
+    "zarf.dev/agent": "ignore"
