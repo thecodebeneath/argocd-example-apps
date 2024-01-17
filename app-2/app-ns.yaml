@@ -1,0 +1,7 @@
+kind: Namespace
+apiVersion: v1
+metadata:
+  name: "mission-app-2"
+  labels:
+    name: "mission-app-2"
+    "zarf.dev/agent": "ignore"
